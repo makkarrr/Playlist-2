@@ -36,6 +36,11 @@ public class Main {
         System.out.println(myPlaylist.playNext());
 
         System.out.println(myPlaylist.currentSong()); //unholy
-        // her loss
+
+
+        //HomeWork
+        // addSongByTrackNumber in playlist from album - keep both checks - Album & PLaylist
+        // add check if song in playlist already, don't add it and return relevant information - USE OPTIONAL PLS
+        // deleteSongFromPlayList
     }
 }
